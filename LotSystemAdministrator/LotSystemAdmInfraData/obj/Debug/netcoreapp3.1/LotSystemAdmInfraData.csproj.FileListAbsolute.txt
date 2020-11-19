@@ -1,0 +1,15 @@
+C:\Projeto\marquessoftware_api\LotSystemAdministrator\LotSystemAdmInfraData\bin\Debug\netcoreapp3.1\LotSystemAdmInfraData.deps.json
+C:\Projeto\marquessoftware_api\LotSystemAdministrator\LotSystemAdmInfraData\bin\Debug\netcoreapp3.1\LotSystemAdmInfraData.runtimeconfig.json
+C:\Projeto\marquessoftware_api\LotSystemAdministrator\LotSystemAdmInfraData\bin\Debug\netcoreapp3.1\LotSystemAdmInfraData.runtimeconfig.dev.json
+C:\Projeto\marquessoftware_api\LotSystemAdministrator\LotSystemAdmInfraData\bin\Debug\netcoreapp3.1\LotSystemAdmInfraData.dll
+C:\Projeto\marquessoftware_api\LotSystemAdministrator\LotSystemAdmInfraData\bin\Debug\netcoreapp3.1\LotSystemAdmInfraData.pdb
+C:\Projeto\marquessoftware_api\LotSystemAdministrator\LotSystemAdmInfraData\bin\Debug\netcoreapp3.1\LotSystemAdmDomain.dll
+C:\Projeto\marquessoftware_api\LotSystemAdministrator\LotSystemAdmInfraData\bin\Debug\netcoreapp3.1\LotSystemAdmDomain.pdb
+C:\Projeto\marquessoftware_api\LotSystemAdministrator\LotSystemAdmInfraData\obj\Debug\netcoreapp3.1\LotSystemAdmInfraData.csprojAssemblyReference.cache
+C:\Projeto\marquessoftware_api\LotSystemAdministrator\LotSystemAdmInfraData\obj\Debug\netcoreapp3.1\LotSystemAdmInfraData.AssemblyInfoInputs.cache
+C:\Projeto\marquessoftware_api\LotSystemAdministrator\LotSystemAdmInfraData\obj\Debug\netcoreapp3.1\LotSystemAdmInfraData.AssemblyInfo.cs
+C:\Projeto\marquessoftware_api\LotSystemAdministrator\LotSystemAdmInfraData\obj\Debug\netcoreapp3.1\LotSystemAdmInfraData.csproj.CopyComplete
+C:\Projeto\marquessoftware_api\LotSystemAdministrator\LotSystemAdmInfraData\obj\Debug\netcoreapp3.1\LotSystemAdmInfraData.dll
+C:\Projeto\marquessoftware_api\LotSystemAdministrator\LotSystemAdmInfraData\obj\Debug\netcoreapp3.1\LotSystemAdmInfraData.pdb
+C:\Projeto\marquessoftware_api\LotSystemAdministrator\LotSystemAdmInfraData\obj\Debug\netcoreapp3.1\LotSystemAdmInfraData.genruntimeconfig.cache
+C:\Projeto\marquessoftware_api\LotSystemAdministrator\LotSystemAdmInfraData\obj\Debug\netcoreapp3.1\LotSystemAdmInfraData.csproj.CoreCompileInputs.cache

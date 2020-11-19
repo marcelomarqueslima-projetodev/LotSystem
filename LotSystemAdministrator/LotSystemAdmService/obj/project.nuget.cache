@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "eOx9XGgaauFfmDc1TwQUzDSOycV0OxT30w1bMvJD9kd890+eBwsqmbZkG0gj3w10UMDyigj8W7BvZsvrCi8sig==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmService\\LotSystemAdmService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\fluentvalidation.aspnetcore\\8.6.2\\fluentvalidation.aspnetcore.8.6.2.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\8.6.2\\fluentvalidation.dependencyinjectionextensions.8.6.2.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,402 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmApi\\LotSystemAdmApi.csproj": {}
+  },
+  "projects": {
+    "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmApi\\LotSystemAdmApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmApi\\LotSystemAdmApi.csproj",
+        "projectName": "LotSystemAdmApi",
+        "projectPath": "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmApi\\LotSystemAdmApi.csproj",
+        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+        "outputPath": "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmDomain\\LotSystemAdmDomain.csproj": {
+                "projectPath": "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmDomain\\LotSystemAdmDomain.csproj"
+              },
+              "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmInfraCrossCutting\\LotSystemAdmInfraCrossCutting.csproj": {
+                "projectPath": "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmInfraCrossCutting\\LotSystemAdmInfraCrossCutting.csproj"
+              },
+              "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmService\\LotSystemAdmService.csproj": {
+                "projectPath": "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmService\\LotSystemAdmService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmDomain\\LotSystemAdmDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmDomain\\LotSystemAdmDomain.csproj",
+        "projectName": "LotSystemAdmDomain",
+        "projectPath": "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmDomain\\LotSystemAdmDomain.csproj",
+        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+        "outputPath": "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmInfraCrossCutting\\LotSystemAdmInfraCrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmInfraCrossCutting\\LotSystemAdmInfraCrossCutting.csproj",
+        "projectName": "LotSystemAdmInfraCrossCutting",
+        "projectPath": "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmInfraCrossCutting\\LotSystemAdmInfraCrossCutting.csproj",
+        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+        "outputPath": "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmInfraCrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmInfraData\\LotSystemAdmInfraData.csproj": {
+                "projectPath": "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmInfraData\\LotSystemAdmInfraData.csproj"
+              },
+              "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmService\\LotSystemAdmService.csproj": {
+                "projectPath": "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmService\\LotSystemAdmService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.20, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmInfraData\\LotSystemAdmInfraData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmInfraData\\LotSystemAdmInfraData.csproj",
+        "projectName": "LotSystemAdmInfraData",
+        "projectPath": "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmInfraData\\LotSystemAdmInfraData.csproj",
+        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+        "outputPath": "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmInfraData\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmDomain\\LotSystemAdmDomain.csproj": {
+                "projectPath": "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmDomain\\LotSystemAdmDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.20, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmService\\LotSystemAdmService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmService\\LotSystemAdmService.csproj",
+        "projectName": "LotSystemAdmService",
+        "projectPath": "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmService\\LotSystemAdmService.csproj",
+        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+        "outputPath": "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmDomain\\LotSystemAdmDomain.csproj": {
+                "projectPath": "D:\\dev\\Back\\lotsystemadmin\\LotSystemAdministrator\\LotSystemAdmDomain\\LotSystemAdmDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

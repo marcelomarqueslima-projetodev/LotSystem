@@ -1,0 +1,9 @@
+C:\Projeto\marquessoftware_api\LotSystemAdministrator\LotSystemAdmDomain\bin\Debug\netcoreapp3.1\LotSystemAdmDomain.deps.json
+C:\Projeto\marquessoftware_api\LotSystemAdministrator\LotSystemAdmDomain\bin\Debug\netcoreapp3.1\LotSystemAdmDomain.dll
+C:\Projeto\marquessoftware_api\LotSystemAdministrator\LotSystemAdmDomain\bin\Debug\netcoreapp3.1\LotSystemAdmDomain.pdb
+C:\Projeto\marquessoftware_api\LotSystemAdministrator\LotSystemAdmDomain\obj\Debug\netcoreapp3.1\LotSystemAdmDomain.AssemblyInfoInputs.cache
+C:\Projeto\marquessoftware_api\LotSystemAdministrator\LotSystemAdmDomain\obj\Debug\netcoreapp3.1\LotSystemAdmDomain.AssemblyInfo.cs
+C:\Projeto\marquessoftware_api\LotSystemAdministrator\LotSystemAdmDomain\obj\Debug\netcoreapp3.1\LotSystemAdmDomain.csproj.CoreCompileInputs.cache
+C:\Projeto\marquessoftware_api\LotSystemAdministrator\LotSystemAdmDomain\obj\Debug\netcoreapp3.1\LotSystemAdmDomain.dll
+C:\Projeto\marquessoftware_api\LotSystemAdministrator\LotSystemAdmDomain\obj\Debug\netcoreapp3.1\LotSystemAdmDomain.pdb
+C:\Projeto\marquessoftware_api\LotSystemAdministrator\LotSystemAdmDomain\obj\Debug\netcoreapp3.1\LotSystemAdmDomain.csprojAssemblyReference.cache
